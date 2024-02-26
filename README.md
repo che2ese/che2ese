@@ -15,11 +15,11 @@
 <img src="https://img.shields.io/badge/C-007396?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-F7DF1E?style=for-the-badge&logo=C++&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-6DB33F?style=for-the-badge&logo=C%23&logoColor=white">
-<img src="https://img.shields.io/badge/UNITY-E34F26?style=for-the-badge&logo=UNITY&logoColor=white">
 <img src="https://img.shields.io/badge/PYTHON-4479A1?style=for-the-badge&logo=PYTHON&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
+<img src="https://img.shields.io/badge/UNITY-181717?style=for-the-badge&logo=UNITY&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VisualStudio-007ACC?style=for-the-badge&logo=VisualStudio&logoColor=white">
+<img src="https://img.shields.io/badge/VisualStudio-2C2255?style=for-the-badge&logo=VisualStudio&logoColor=white">
  
    <br/>
    <br/>
