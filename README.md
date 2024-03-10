@@ -29,7 +29,7 @@
  
   <br/>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=che2ese&show_icons=true&theme=radical)
+![che2ese's GitHub stats](https://github-readme-stats.vercel.app/api?username=che2ese&show_icons=true&theme=radical)
 
  <br/>
  <br/>
