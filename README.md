@@ -24,7 +24,13 @@
  
    <br/>
    <br/>
- 
+
+ ####  ✏️: Stats
 ![che2ese's GitHub stats](https://github-readme-stats.vercel.app/api?username=che2ese&show_icons=true&theme=catppuccin_mocha)
+
+ <br/>
+ <br/>
+
+ #### 📝: Study Log
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=che2ese&layout=compact&theme=tokyonight)  
 </div>
