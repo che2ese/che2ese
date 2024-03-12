@@ -25,8 +25,6 @@
    <br/>
    <br/>
  
-#### :pencil2: Stats  
 ![che2ese's GitHub stats](https://github-readme-stats.vercel.app/api?username=che2ese&show_icons=true&theme=catppuccin_mocha)
-#### :pencil2: Study log
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=che2ese&layout=compact&theme=tokyonight)  
 </div>
