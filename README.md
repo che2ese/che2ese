@@ -39,4 +39,5 @@
 
 #### 🥅: How To Reach Me
 [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@user-hp4ob3pj5t)](https://www.youtube.com/@user-hp4ob3pj5t)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kris1129@dgu.ac.kr)](mailto:kris1129@dgu.ac.kr)
 </div>
