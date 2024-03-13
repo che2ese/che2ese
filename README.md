@@ -38,6 +38,12 @@
  <br/>
 
 #### 🥅: How To Reach Me
-[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@user-hp4ob3pj5t)](https://www.youtube.com/@user-hp4ob3pj5t)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kris1129@dgu.ac.kr)](mailto:kris1129@dgu.ac.kr)
+<a href="https://www.youtube.com/@user-hp4ob3pj5t">
+  <img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/@user-hp4ob3pj5t" alt="Youtube Badge" style="width:48px;height:48px;">
+</a>
+
+<a href="mailto:kris1129@dgu.ac.kr">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kris1129@dgu.ac.kr" alt="Gmail Badge" style="width:48px;height:48px;">
+</a>
+
 </div>
