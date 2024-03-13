@@ -33,4 +33,14 @@
 
  #### 📝: Study Log
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=che2ese&layout=compact&theme=tokyonight)  
+
+ <br/>
+ <br/>
+
+#### 🥅: How To Reach Me
+</a>
+<a href="https://kris1129@dgu.ac.kr">
+    <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://kris1129@dgu.ac.kr"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 </div>
