@@ -10,19 +10,31 @@
   
 ####  :clipboard: Once I've Used 
   
- <br/>
-  
+✏️ language
+<br/>
 <img src="https://img.shields.io/badge/C-007396?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/C++-5C3EE8?style=for-the-badge&logo=C++&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-6DB33F?style=for-the-badge&logo=C%23&logoColor=white">
+<img src="https://img.shields.io/badge/C++-007396?style=for-the-badge&logo=C++&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-007396?style=for-the-badge&logo=C%23&logoColor=white">
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=Lua&logoColor=white">
 <img src="https://img.shields.io/badge/PYTHON-4479A1?style=for-the-badge&logo=PYTHON&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-5C3EE8?style=for-the-badge&logo=JavaScript&logoColor=white">
+<img src="https://img.shields.io/badge/Java-00A2FF?style=for-the-badge&logo=Java&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
+<br>
+🎮 Game Engine
+<br>
 <img src="https://img.shields.io/badge/UNITY-181717?style=for-the-badge&logo=UNITY&logoColor=white">
 <img src="https://img.shields.io/badge/UNREALENGINE-181717?style=for-the-badge&logo=UNREALENGINE&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/RobloxStudio-181717?style=for-the-badge&logo=RobloxStudio&logoColor=white">
+<br>
+<br>
+📏 Stack
+<br>
 <img src="https://img.shields.io/badge/VisualStudio-2C2255?style=for-the-badge&logo=VisualStudio&logoColor=white">
+<img src="https://img.shields.io/badge/VsCode-2F80ED?style=for-the-badge&logo=VSCode&logoColor=white">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=Amazon aws&logoColor=white">
  
    <br/>
    <br/>
