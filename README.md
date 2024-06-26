@@ -6,10 +6,22 @@
 게임 클라이언트 개발자를 꿈꾸고 있는 학생입니다.
   
  <br/>
- <br/>
-  
+ 
+ #### :trophy: What I Participated In
+
+ 
+|**Date**|**Contents**|**Organization**|
+|:--:|:--:|:--:|
+|2021.02 ~|Department of AI Software Convergence,<br>Multimedia Software Major|Dongguk Univ.|
+|2024.03 ~|Study Gruop Operate|Dongguk Study|
+|2024.06 ~ 2024.08|Transdisciplinary University<br>Academic Festival|STrem from[] 2th|
+|2024.07 ~ 2024. 09|AI Hackathon|LG Aimer 5th|
+
+<br/>
+<br/>
+
 ####  :clipboard: Once I've Used 
-  
+<br/>
 ✏️ language
 <br/>
 <img src="https://img.shields.io/badge/C-007396?style=for-the-badge&logo=C&logoColor=white">
