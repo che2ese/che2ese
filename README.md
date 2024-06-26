@@ -12,10 +12,10 @@
  
 |**Date**|**Contents**|**Organization**|
 |:--:|:--:|:--:|
-|2021.02 ~|Department of AI Software Convergence,<br>Multimedia Software Major|Dongguk Univ.|
-|2024.03 ~|Study Group Operate|Dongguk Study|
-|2024.06 ~ 2024.08|Transdisciplinary University<br>Academic Festival|STrem from[] 2th|
-|2024.07 ~ 2024. 09|AI Hackathon|LG Aimer 5th|
+|2021.02 ~|Department of AI Software Convergence,<br>Multimedia Software Major|**Dongguk Univ.**|
+|2024.03 ~|Study Group Operate|**Dongguk Study**|
+|2024.06 ~ 2024.08|Transdisciplinary University<br>Academic Festival|**STrem from[] 2th**|
+|2024.07 ~ 2024. 09|AI Hackathon|**LG Aimer 5th**|
 
 <br/>
 <br/>
