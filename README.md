@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=MinSeong&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
 ####  :wave: Welcome my github profile !
-게임 클라이언트 개발자를 꿈꾸고 있는 학생입니다.
+게임 클라이언트 & AI 개발자를 꿈꾸고 있는 학생입니다.
   
  <br/>
  
