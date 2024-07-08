@@ -4,6 +4,9 @@
 
 ####  :wave: Welcome my github profile !
 게임 클라이언트 & AI 개발자를 꿈꾸고 있는 학생입니다.
+<br/>
+ <a href="https://che2ese.github.io/Portfolio/" class="portfolio-link" target="_blank">포트폴리오 사이트</a>
+
   
  <br/>
  
