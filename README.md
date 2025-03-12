@@ -70,7 +70,7 @@
  <br/>
 
  #### 📝: Study Log
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=che2ese&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=che2ese&layout=compact&theme=tokyonight&hide=ShaderLab,HLSL)
 
  <br/>
  <br/>
